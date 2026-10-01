@@ -2,7 +2,7 @@
 
 > **Commit:** [`580e1f36`](https://github.com/block/rust-por-verifier/commit/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9)
 > **Health Score:** 🟢 **100/100** · **Verdict:** OPTIMAL (100% Clean DAG Architecture)
-> **Query Latency:** 254.68 ms | **Verified Knowledge Quads:** 63,405
+> **Query Latency:** 279.10 ms | **Verified Knowledge Quads:** 63,405
 
 ---
 
