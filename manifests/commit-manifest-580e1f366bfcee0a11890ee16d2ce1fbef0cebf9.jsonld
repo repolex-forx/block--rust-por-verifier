@@ -48,10 +48,58 @@
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9/chunk-001.nq.gz",
       "repolex:graphFileSize": 691848
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "lsp",
+      "repolex:graphFilePath": "aggregate/lsp/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9.nq.gz",
+      "repolex:graphFileSize": 69951
     }
   ],
-  "repolex:parseStatus": "ast_complete",
+  "repolex:parseStatus": "enrich_complete",
   "repolex:parsedAt": "2026-10-01T08:49:56.452474+00:00",
   "repolex:parserVersion": "0.1.10",
-  "git:tagName": "main"
+  "git:tagName": "main",
+  "repolex:dependencyRepo": [
+    {
+      "@id": "https://repolex.ai/r/rust-bitcoin/rust-bitcoin",
+      "repolex:packageName": "bitcoin"
+    },
+    {
+      "@id": "https://repolex.ai/r/KokaKiwi/rust-hex",
+      "repolex:packageName": "hex"
+    },
+    {
+      "@id": "https://repolex.ai/r/clap-rs/clap",
+      "repolex:packageName": "clap"
+    },
+    {
+      "@id": "https://repolex.ai/r/serde-rs/serde",
+      "repolex:packageName": "serde"
+    },
+    {
+      "@id": "https://repolex.ai/r/serde-rs/json",
+      "repolex:packageName": "serde_json"
+    },
+    {
+      "@id": "https://repolex.ai/r/RustCrypto/hashes",
+      "repolex:packageName": "sha2"
+    },
+    {
+      "@id": "https://repolex.ai/r/algesten/ureq",
+      "repolex:packageName": "ureq"
+    },
+    {
+      "@id": "https://repolex.ai/r/RustCrypto/traits",
+      "repolex:packageName": "digest"
+    },
+    {
+      "@id": "https://repolex.ai/r/rust-bitcoin/rust-secp256k1",
+      "repolex:packageName": "secp256k1"
+    },
+    {
+      "@id": "https://repolex.ai/r/rust-bitcoin/rust-bitcoin",
+      "repolex:packageName": "bitcoin-units"
+    }
+  ]
 }

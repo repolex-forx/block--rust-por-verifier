@@ -28,6 +28,102 @@
       ],
       "ast": [
         "aggregate/ast/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "bitcoin",
+          "ecosystem": "CARGO",
+          "version": "0.32",
+          "githubOrg": "rust-bitcoin",
+          "githubRepo": "rust-bitcoin",
+          "githubUrl": "https://github.com/rust-bitcoin/rust-bitcoin/",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "hex",
+          "ecosystem": "CARGO",
+          "version": "0.4",
+          "githubOrg": "KokaKiwi",
+          "githubRepo": "rust-hex",
+          "githubUrl": "https://github.com/KokaKiwi/rust-hex",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "clap",
+          "ecosystem": "CARGO",
+          "version": "4.0",
+          "githubOrg": "clap-rs",
+          "githubRepo": "clap",
+          "githubUrl": "https://github.com/clap-rs/clap",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "sha2",
+          "ecosystem": "CARGO",
+          "version": "0.10",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "hashes",
+          "githubUrl": "https://github.com/RustCrypto/hashes",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "ureq",
+          "ecosystem": "CARGO",
+          "version": "2",
+          "githubOrg": "algesten",
+          "githubRepo": "ureq",
+          "githubUrl": "https://github.com/algesten/ureq",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "digest",
+          "ecosystem": "CARGO",
+          "version": "0.10.7",
+          "githubOrg": "RustCrypto",
+          "githubRepo": "traits",
+          "githubUrl": "https://github.com/RustCrypto/traits",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/digest-0.10.7/src/digest.rs"
+        },
+        {
+          "packageName": "secp256k1",
+          "ecosystem": "CARGO",
+          "version": "0.29.1",
+          "githubOrg": "rust-bitcoin",
+          "githubRepo": "rust-secp256k1",
+          "githubUrl": "https://github.com/rust-bitcoin/rust-secp256k1/",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/secp256k1-0.29.1/src/key.rs"
+        },
+        {
+          "packageName": "bitcoin-units",
+          "ecosystem": "CARGO",
+          "version": "0.1.2",
+          "githubOrg": "rust-bitcoin",
+          "githubRepo": "rust-bitcoin",
+          "githubUrl": "https://github.com/rust-bitcoin/rust-bitcoin/",
+          "source": "lsp",
+          "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-units-0.1.2/src/amount.rs"
+        }
       ]
     }
   ],
