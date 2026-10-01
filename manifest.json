@@ -124,7 +124,9 @@
           "source": "lsp",
           "install_path": "/home/runner/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitcoin-units-0.1.2/src/amount.rs"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9/chunk-001.nq.gz",
+      "dep": "dep/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",

@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/block/rust-por-verifier/commit/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9",
       "git:hexsha": "580e1f366bfcee0a11890ee16d2ce1fbef0cebf9",
-      "repolex:parseStatus": "enrich_complete",
-      "git:tagName": "main"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "main",
+      "repolex:parsedAt": "2026-10-01T08:56:45.654162+00:00"
     }
   ]
 }
