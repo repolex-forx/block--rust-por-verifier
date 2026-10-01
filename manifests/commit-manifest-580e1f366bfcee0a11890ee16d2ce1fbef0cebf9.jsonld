@@ -50,7 +50,7 @@
       "repolex:graphFileSize": 691848
     }
   ],
-  "repolex:parseStatus": "metadata_complete",
+  "repolex:parseStatus": "ast_complete",
   "repolex:parsedAt": "2026-10-01T08:49:56.452474+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "main"
