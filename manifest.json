@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "rust-por-verifier",
+  "versions": [
+    {
+      "commit": "580e1f366bfcee0a11890ee16d2ce1fbef0cebf9",
+      "parsed_at": "2026-10-01T06:43:07.517880+00:00",
+      "tag": "main",
+      "filetree": "filetree/580e1f366bfcee0a11890ee16d2ce1fbef0cebf9.nq.gz",
+      "blobs": [
+        "blob/0ba9db25329d0b336e39ca8cde8470c5b7bc45eb.nq.gz",
+        "blob/bb812584887aa1ad54adf104d03e57b073e331e5.nq.gz",
+        "blob/21ecf13a6fc9700d6494b5a930d156bd547e15c7.nq.gz",
+        "blob/9582fc588754f78d9875691a3bd5e674295436b3.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/9303e473b5a5eb44158ea4a4e6b9d97ec7520289.nq.gz",
+        "blob/25f0bc5ed80683a81f46e6bfd1cf8ea0b56c6807.nq.gz",
+        "blob/a758a3128452eadc31e06e7ec837f5c2a78039b3.nq.gz",
+        "blob/ae4b1853e04abdd6c98554b38c659b93293ffdff.nq.gz",
+        "blob/ed6736ca348115b62e448d20e4cf7ce02ec9c6ee.nq.gz",
+        "blob/6e84586771ca14c396c35e69739d0873007f9f0c.nq.gz",
+        "blob/78a19cfbe0773f7f931b8af5e0c907131e678add.nq.gz",
+        "blob/39ee2986eb5b5d98b1f5c4d090e848053f01d81c.nq.gz",
+        "blob/12cc251960a095779ec6d03d69e09819ca15d877.nq.gz",
+        "blob/05fbc36ba35ee9e70782dd214456139ef2403479.nq.gz",
+        "blob/c45f2e5f2979ea9a632b12d4206e152320d4dd01.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
